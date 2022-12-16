@@ -12,5 +12,8 @@
     - Above all, performance improved by about 0.3.
 - Finally, while learning 50 epochs, a method of excluding or adding specific augmentation was selected for each specific epoch.
 
+<img width="554" alt="스크린샷 2022-12-17 시간: 07 15 23" src="https://user-images.githubusercontent.com/118870939/208197853-ca80e5fb-17b6-4118-9db8-759e439f7bf7.png">
+
+
 ## Result
 8 / 170
