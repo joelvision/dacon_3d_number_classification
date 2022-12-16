@@ -1,6 +1,7 @@
 ## Dacon Competition
 - Link: https://dacon.io/competitions/official/235951/overview/description
 - Goal: A competition to classify 3D handwritten numeric images.
+- Stack: Python, Pytorch  
 
 ## Competition scenario
 - At first, we tried to make various attempts based on 3D models.
